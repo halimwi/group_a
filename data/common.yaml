@@ -1,2 +1,2 @@
 ---
-profile::app::sample_website::linux::webserver_port::linux: 80
+profile::app::sample_website::linux::webserver_port: 80
